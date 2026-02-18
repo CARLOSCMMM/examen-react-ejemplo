@@ -1,0 +1,22 @@
+{
+  "eventos": [
+    {
+      "id": "1",
+      "title": "Concierto de Rock",
+      "description": "Un concierto increíble.",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": "2",
+      "title": "Exposición de Arte",
+      "description": "Pinturas modernas.",
+      "image": "https://picsum.photos/200/151"
+    },
+    {
+      "id": "3",
+      "title": "Feria del Libro",
+      "description": "Autores invitados.",
+      "image": "https://picsum.photos/200/152"
+    }
+  ]
+}
